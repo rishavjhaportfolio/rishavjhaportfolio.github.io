@@ -21,8 +21,8 @@ html {
 
 body {
     font-family: 'Poppins', sans-serif;
-    
-    
+
+
 }
 
 .nav {
@@ -32,7 +32,7 @@ body {
       box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
   z-index: 10;
     height:45px;
-  
+
 }
 .nav-list a{
     color:white;
@@ -101,7 +101,7 @@ body {
     justify-content:center;
     align-items: center;
     margin-top: 20px;
-    
+
 }
 
 .tribute{
@@ -117,7 +117,7 @@ body {
     height:200px;
     background-image: url(https://i.pinimg.com/originals/69/69/2d/69692d94f1e150eab4e3435fc2f1c7ac.jpg);
     font-size:30px;
-    
+
 }
 .contact-section-header{
       padding:45px;
@@ -152,7 +152,39 @@ body {
 }
 
 
+/*----Contact Deatails-----*/
 
 
+#form{
+    text-align: center;
+    margin-top: 100px;
+    font-size:12px;
+      margin: 0auto;
+    margin-left:300px;
+    margin-right: 300px;
+    padding: 10px 10px 10px 10px;
+     box-shadow: 0px 4px 13px 5px;
+    border-radius: 5px;
+    background-image:url(https://8v4wno5u9j-flywheel.netdna-ssl.com/wp-content/uploads/page-background-blue.jpg);
+}
 
+.name{
+    margin-bottom: 35px;
+    font-family: "Times New Roman", Times, serif;
+    color:saddlebrown;
+}
 
+p {
+    padding: 14px;
+    font-size: 13px;
+}
+
+#submit {
+    background-color:cadetblue;
+    color:floralwhite;
+
+}
+
+#page{
+    background-image: url(https://i0.wp.com/bitcoinprbuzz.com/wp-content/uploads/2015/08/Contact-Us-Bottom-of-Page-Background-Image.jpg?ssl=1);
+}
