@@ -1,20 +1,20 @@
 /*
 #second-image {
-    
+
     padding:20px 30px 40px 50px;
     height: 400px;
     width: px;
-    
+
 }
 */
 
 #container {
-    
+
     margin-left: auto;
     margin-right: auto;
     width: 1100px;
     background-color: white;
-    
+
 }
 
 
@@ -26,40 +26,40 @@
     background-size: cover;
     margin-left:auto;
     margin-right:auto;
-    
-    
+
+
 }
 
 #quote-1 {
     height: 75px;
-    
+
 }
 p span   {
     border: 0 solid black;
     padding: 12px;
     position:relative;
     background-color: white;
-    
+
 }
 
 #text {
     text-align: center;
-    font-family: 'Pacifico', cursive;
-    font-size: 25px;
+    font-family: "opensanslight",Arial,Helvetica,sans-serif;
+    font-size: 17px;
     color:red;
-    
-   
+
+
 }
 
 #bio-header {
      position: relative;
     top:10px;
     left:150px;
-    
+
 }
 
 .subsection-header {
-    
+
     line-height: 120px;
     padding-left: 30px;
     font-size: 50px;
@@ -67,7 +67,7 @@ p span   {
     font-weight: bold;
     height: 120px;
     width: 768px;
-    
+
 }
 
 #content {
@@ -84,13 +84,13 @@ p span   {
     top: 25px;
     left: 10px;
     font-family: 'Dosis' , sans-serif;
-    
+
 }
 
 .event-date-first-child {
     border-top: 1px solid #ccc;
     margin-top: 0;
-    
+
 }
 
 .event-date {
@@ -147,14 +147,14 @@ p span   {
     border:0;
     border-bottom:1px solid #dddddd;
     padding:0.2em;
-    
+
 }
 
 #nutshell {
     font-family:'Lato' , sans-serif;
     font-weight:bold;
     font-size:26px;
-    
+
 }
 #footer {
     background-color:;
@@ -182,9 +182,3 @@ a:hover {
     text-decoration: underline;
     color: blue;
 }
-
-
-
-
-
-
